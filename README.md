@@ -8,7 +8,7 @@
 
 If you're passionate about technology, digital product, user experience and caring for others, have a look at our openings at https://heartsradiant.com/jobs
 
-And now some vanity stats. They're wildly innacurate though - no dart, no python, no ML, no typescript, no java (yikes) ... 
+And now some vanity stats. They're wildly innacurate though, most of my work happens in private repos - no dart, no python, no ML, no typescript, no java (yikes) ... 
 
 <a href="https://github.com/dgilperez">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dgilperez&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark" />
