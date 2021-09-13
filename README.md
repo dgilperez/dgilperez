@@ -17,6 +17,10 @@ And now some vanity stats. They're wildly innacurate though, most of my work hap
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgilperez&langs_count=10&layout=compact&exclude_repo=wordpress&theme=github_dark&count_private=true" />
 </a>
 
+And more vanity fun, just because I like to be called _Ancient_: 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dgilperez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 You may want to browse through my profile for open source contributions, to get a better picture: 
 
 - I am the maintainer of some small ruby gems. I am glad to see [validates_zipcode](https://github.com/dgilperez/validates_zipcode) has being of use for many over the years.
