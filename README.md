@@ -19,7 +19,7 @@ And now some vanity stats. They're wildly innacurate though, most of my work hap
 
 And more vanity fun, just because I like to be called _Ancient_: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dgilperez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dgilperez&theme=discord&column=8&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 You may want to browse through my profile for open source contributions, to get a better picture: 
 
